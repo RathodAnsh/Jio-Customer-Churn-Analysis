@@ -36,7 +36,7 @@ The dataset was imbalanced (74% Non-Churn vs. 26% Churn), causing standard model
 | **Random Forest** | 47% | 79% | Poor performance on this data. |
 | **Logistic Regression + SMOTE** | **71%** | **76%** | **✅ Best Model** |
 
-**Conclusion:** The SMOTE-enhanced Logistic Regression model is the best choice. It successfully identifies **71% of high-risk customers**, allowing the business to intervene.
+**Conclusion:** The SMOTE-enhanced Logistic Regression model is the best choice. It successfully identifies **71% of at-risk customers**, allowing the business to intervene.
 
 ## 💡 Strategic Recommendations
 Based on the data, the following actions are recommended to reduce churn:
