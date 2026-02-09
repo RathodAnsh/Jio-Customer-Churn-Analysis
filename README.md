@@ -42,6 +42,6 @@ The dataset was imbalanced (74% Non-Churn vs. 26% Churn), causing standard model
 Based on the data, the following actions are recommended to reduce churn:
 1.  **Contract Push:** Offer incentives for month-to-month users to switch to 1-year or 2-year contracts.
 2.  **Payment Update:** Give a discount for switching from Electronic Check to AutoPay (Credit Card).
-3.  **Targeted Retention:** Use this model to identify "high-risk" customers and offer them special deals before they cancel the plan.
+3.  **Targeted Retention:** Use this model to identify "at-risk" customers and offer them special deals before they cancel the plan.
 ---
 *Project developed by Ansh Rathod*
